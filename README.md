@@ -10,3 +10,7 @@
 
 ### NEXT:
 * Maps and their difference with Sets
+
+[You can follow this Twitter thread to see these examples and others programming things.](https://twitter.com/JP__Gallegos/status/1308924486641647618)
+
+
